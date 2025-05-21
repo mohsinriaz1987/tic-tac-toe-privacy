@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Data Deletion Request – Tic Tac Toe Modern</title>
+</head>
+<body style="font-family: sans-serif; padding: 20px; background-color: #f9f9f9;">
+  <h2>Data Deletion Request</h2>
+
+  <p>This page is for users of the mobile game <strong>Tic Tac Toe Modern</strong> who wish to request deletion of their personal data.</p>
+
+  <h3>What data we collect:</h3>
+  <ul>
+    <li>Google account ID (UID)</li>
+    <li>Name</li>
+    <li>Email address</li>
+    <li(Profile photo URL (if available)</li>
+  </ul>
+
+  <h3>How to request data deletion:</h3>
+  <p>Please email your request to: <strong>mohsanriaz1987@gmail.com</strong></p>
+
+  <p>Your email should include:</p>
+  <ul>
+    <li>The Google account email you used to sign in</li>
+    <li>Your display name (if different)</li>
+  </ul>
+
+  <h3>What happens next:</h3>
+  <ul>
+    <li>We will delete all personal data stored in our system related to your account</li>
+    <li>You will still retain your Google account – we do not delete or alter your Google credentials</li>
+    <li>All data will be deleted within <strong>7 business days</strong></li>
+  </ul>
+
+  <p>If you would like to delete your entire account and game access, please mention that in your email request.</p>
+
+  <p><em>Developer: Mohsin Riaz</em></p>
+</body>
+</html>
